@@ -1,3 +1,9 @@
+//-------------------------------------------------------------- -
+// Programming Assignment:	LAB1B
+// Developer:			Ezeniel Rios
+// Date Written:			3/4/2021
+// Purpose:				Average Program 
+// ---------------------------------------------------------------
 #include "stdafx.h"
 #include <iostream>
 using namespace std;
